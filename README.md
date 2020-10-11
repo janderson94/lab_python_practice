@@ -1,5 +1,4 @@
+#Tung Lab misc python practice
 ![python](./misc/python.jpg)
-
-##Tung Lab misc python practice
 
 

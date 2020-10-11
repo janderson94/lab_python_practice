@@ -1,2 +1,3 @@
-# lab_python_practice
-Tung Lab misc python practice
+![python](./misc/python.jpg)
+
+# Tung lab repo for python practice

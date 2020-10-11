@@ -1,2 +1,5 @@
-# lab_python_practice
-Tung Lab misc python practice
+![python](misc/python.jpeg)
+
+#Tung Lab misc python practice
+
+
